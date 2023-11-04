@@ -1,5 +1,9 @@
-altair
 numpy
 pandas
-pydeck
+matplotlib
+seaborn
 streamlit
+plotly==5.9.0
+openpyxl
+scikit-learn
+streamlit_lottie
